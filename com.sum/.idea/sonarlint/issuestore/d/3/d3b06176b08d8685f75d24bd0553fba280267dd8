@@ -1,0 +1,8 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ΥΝΦ8ί›ακά/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ϊ¶µΠ8ζ›ακά/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(‰ΓΞ‚8€ακά/
+€
+java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ΐ³Λήόÿÿÿÿ8‚ακά/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ς―Ψε8„ακά/
+z	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ8‰ακά/
